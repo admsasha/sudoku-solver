@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=Application
+Name=sudoku-solver
+Comment=Solver sudoku puzzles
+Comment[ru]=Решатель судоку пазлов
+GenericName=Sudoku solver
+GenericName[ru]=Решатель судоку
+Icon=sudoku-solver
+Exec=sudoku-solver
+Terminal=false
+Categories=Qt;Game;LogicGame;
+Keywords=games;puzzle;sudoku;

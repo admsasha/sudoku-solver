@@ -1,0 +1,13 @@
+/0000/
+/Bin/
+/.build/
+/release/
+/debug/
+/.qmake.stash
+/langs/*.qm
+/Makefile
+/Makefile.Debug
+/Makefile.Release
+/sudoku-solver.pro.user
+
+
