@@ -1,5 +1,5 @@
 Name:		sudoku-solver
-Version:	1.0.0
+Version:	1.0.1
 Release:	1
 Summary:	Sudoku solver
 Group:		Games/Other
