@@ -2,7 +2,7 @@
 
 Sudoku solver
 
-![sudoku solver images](http://dansoft.krasnokamensk.ru/data/1032/sudoku-solver.png)
+![sudoku solver images](https://dansoft.ru/data/1032/sudoku-solver.png)
 
 ### How do I get set up? ###
 
